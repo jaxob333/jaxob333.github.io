@@ -1,1 +1,24 @@
-
+        
+<h1 id="sports">Sports</h1>
+<p>I am an avid fan of sports. Sports is a big part of my life. My favorite sports are football,soccer and basketball. 
+I do watch a little of baseball but I am not much of a fan.
+My favorite basketball team is the <em>Philadelphia 76ers</em>. 
+More specifically my favorite player is <strong>Joel Embiid</strong>. 
+I also am a big fan of the Memphis Grizzlies.
+In the NFL I am a huge fan of the <em>Green Bay Packers</em>. In my opinion <strong>Aaron Rodgers</strong> is the G.O.A.T. Also I must add that all Bears fans should give up
+on this season. My favorite MLS soccer team is probably the Nashville SC and my favorite international team is probably Manchester United or Chelsea. 
+I do watch some baseball but not a lot. My favorite team has to be the St. Louis Cardinals. I also must add that the reason I am into sports is because
+of the life lessons it teaches. Sports teach cooperation, heart and helps create a work ethic in people. What I mean by heart is the willpower to never
+give up when things seem rough and tough. </p>
+<p>(P.S): Enjoy a mini slide show of my favorite players.
+<img src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTXORrTHjDFL3b4GyY0YipPDyvTzjJnXdn5sjK4skMnPvIDvxOm9skFPN-IkS361U1ILdU4b9dlYxSCF9Q" alt="A picture of Z.BO(Zach Randolph)">
+<img src="http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSxkUSa5lQMnqRxsTyPPD0RnBqT9FU-F3NC6cxt8uDWBfTpivg36-LbMmVtw-CPrCT_f18fD3h6UZ883LU" alt="A picture of Aaron Rodgers">
+<img src="http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTAb5mnCc5HiIDPyZCl1hEAgL1epk2qctE1ndXCkUwdw9XjoFoZbCqG74wFnoLsn7GORhSxYDVNNdevs3U" alt="A picture of Joel Embiid">
+<img src="https://static01.nyt.com/images/2021/05/19/sports/19nba-ja-morant/19nba-ja-morant-mobileMasterAt3x.jpg" alt="A picture of Ronaldo"></p>
+<p><em>Links:</em></p>
+<p>Intro: <a href="README.md">About-Me</a>. </p>
+<p>Page 1: <a href="Beginnings.md">Beginnings</a>.</p>
+<p>Page 3: <a href="College.md">College</a>.</p>
+<p>Page 4: <a href="Coding.md">Coding</a>.</p>
+<p>Page 5: <a href="Hobbies.md">Hobbies</a>.</p>
+        
