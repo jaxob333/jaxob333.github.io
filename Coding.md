@@ -1,1 +1,34 @@
+<h1 id="coding">Coding</h1>
+<p>So far I have taken quite of bit of coding classes in college. Before I came to college I had no experience in coding. So learning how to code on campus is still kind of hard to this day but its not that hard to learn. But I have a huger disadvantage compared to my peers because they have coded some before they came to college. </p>
+<p>Here are a list of some languages I have dabbled in since taking classes at Mizzou. </p>
+<ul>
+<li>C</li>
+<li>Python</li>
+<li>HTML</li>
+<li>JavaScript</li>
+<li>C#</li>
+</ul>
+<p>Out of these five languages I am most comfortable with C# and Python. HTML and JavaScript are pretty decent with me but I am so terrible at C and can barely code anything in C. </p>
+<p>Also here is a little demo code:</p>
+<pre><code class="lang-javascript"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
 
+<span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>This is a random decimal number generator. Pretty cool right!<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+
+
+<span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"demo"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+<span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript">
+<span class="hljs-built_in">document</span>.getElementById(<span class="hljs-string">"demo"</span>).innerHTML = <span class="hljs-built_in">Math</span>.random();
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+
+<span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<p><em>Links:</em></p>
+<p>Intro: <a href="README.md">About-Me</a>. </p>
+<p>Page 1: <a href="Beginnings.md">Beginnings</a></p>
+<p>Page 2: <a href="Sports.md">Sports</a> </p>
+<p>Page 3: <a href="College.md">College</a></p>
+<p>Page 5: <a href="Hobbies.md">Hobbies</a></p>
